@@ -10,6 +10,7 @@ The repo is built up step by step, so most of the folders in ASSIGNMENT.md ("You
 
 ## Project decisions that differ from ASSIGNMENT.md
 
+- **Main pin point:** the certification preparation strategy at https://agentfactory2.panaversity.org/certification-and-portfolio-roadmaps/ (motivating tone, with honest warnings). Every email uses that page as its one main link.
 - **Brand:** the campaign markets the 2nd edition of *The AI Agent Factory* (Panaversity), starting from https://agentfactory2.panaversity.org/five-horizons/ ("The Five Horizons: From Agent to Autonomous Economy"). Use it instead of the Kettlebird Tea / Steep Club sample, wherever ASSIGNMENT.md's prompts mention the sample. That includes the link `https://kettlebird.example/steep-club` and the email footer text.
 - **Brand rule to carry into `brand/voice.md`:** the Horizon 2-4 dates are forecasts. Always call them forecasts or indicative and never state them as fact. The page shows no price, buy link or launch date, so don't invent any. Use clearly marked placeholders.
 - **Lead groups:** replace the tea groups with reader segments. Keep exactly 3 groups of 8 and keep the CSV columns from Step 5.

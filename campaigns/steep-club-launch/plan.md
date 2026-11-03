@@ -7,7 +7,7 @@ Items marked **[TBC]** are placeholders that need a real answer. Nothing here is
 ## 1. Campaign Overview
 
 - **Name:** Build and Lead with AI Workers
-- **Summary:** A four-week, email-only campaign that introduces the 2nd edition of *The AI Agent Factory* (Panaversity) through its "Five Horizons" roadmap and invites our interest list to start reading.
+- **Summary:** A four-week, email-only campaign for the 2nd edition of *The AI Agent Factory* (Panaversity). **Main pin point: the book's certification preparation strategy** (https://agentfactory2.panaversity.org/certification-and-portfolio-roadmaps/). Tone: motivating, with honest warnings. The Five Horizons roadmap is the supporting context.
 - **Primary goal:** **200 of the roughly 2,000 people on the interest list (10%) start reading the book by Sunday 3 January 2027.** "Started reading" means: signed in on the book site (see section 7).
 - **Secondary goals:**
   - Raise awareness of the Five Horizons roadmap.
@@ -30,14 +30,15 @@ About 2,000 people who joined the interest list, in three groups:
 
 ## 3. Key Messages
 
-- **Core message:** The Five Horizons gives you a clear roadmap to build and lead with AI Workers.
+- **Core message:** Certifications are milestones, not the product. The book shows you how to prepare for them and build a portfolio others can verify.
+- **Tone:** motivating, with warnings that are facts from the book, not fear.
 - **Supporting messages:**
-  1. **Where we are now:** the book places today in the AI Worker era (Horizon 1). Start from the present, not from hype.
-  2. **A path, not a pile of facts:** the human role moves from asking questions, to managing, composing, building and governing.
-  3. **Honest about the future:** later horizons are forecasts. The dates are indicative, and the book says so.
-  4. **Humans stay accountable:** humans set purpose, define authority and remain accountable.
-  5. **Study aids included:** a flashcard deck, roadmaps and cited sources, all on the Five Horizons page.
-- **Proof points:** the Five Horizons page itself (https://agentfactory2.panaversity.org/five-horizons/).
+  1. **Find your route** (motivating): leaders need no exam; everyday professionals and domain experts aim for PCAO-F; builders go PCDV-F, then PCAR-F, then the internship.
+  2. **Build while you prepare** (motivating): pair each exam with a matching portfolio milestone. Pass PCAO-F, build your first slice of work, then pass PCAR-F.
+  3. **A credential without a build is weak evidence** (warning): no certification guarantees a job or income.
+  4. **Know the limits** (warning): a PCxx exam is a credential, not a practice test. The readiness check before an official Anthropic exam is PCxx plus the snapshot rehearsal. Anthropic exams are currently open only to people at Claude Partner Network organizations, registered with a company email address.
+  5. **Context:** the Five Horizons roadmap shows where AI Worker skills are heading. Later horizons are forecasts, and their dates are indicative.
+- **Proof points:** the certification and portfolio roadmaps page (https://agentfactory2.panaversity.org/certification-and-portfolio-roadmaps/) and the Five Horizons page (https://agentfactory2.panaversity.org/five-horizons/). Facts are as of the page date (2026-11-02), so re-check before any real send.
 
 ## 4. Channel Strategy
 
@@ -54,10 +55,10 @@ Week 1 starts Monday 7 December 2026. All emails go on Tuesdays. Times are **[TB
 
 | Week | Date | Email | Audience group | Purpose |
 |---|---|---|---|---|
-| 1 (Mon 7 Dec to Sun 13 Dec) | **Tue 8 Dec 2026** | 01: Meet the Five Horizons | all three groups, version per group | Introduce the roadmap and link to the Five Horizons page |
-| 2 (Mon 14 Dec to Sun 20 Dec) | **Tue 15 Dec 2026** | 02: From prompting to governing | all three groups, version per group | Explain the ladder of how the human role changes |
-| 3 (Mon 21 Dec to Sun 27 Dec) | **Tue 22 Dec 2026** | 03: Study with the book | all three groups, version per group | Show the study aids: flashcards, roadmaps, cited sources |
-| 4 (Mon 28 Dec to Sun 3 Jan) | **Tue 29 Dec 2026** | 04: Start your roadmap | all three groups, version per group | Gentle reminder to start reading, with the link |
+| 1 (Mon 7 Dec to Sun 13 Dec) | **Tue 8 Dec 2026** | 01: Milestones, not the product | all three groups, version per group | Motivate: introduce the certification preparation strategy and link to the roadmaps page |
+| 2 (Mon 14 Dec to Sun 20 Dec) | **Tue 15 Dec 2026** | 02: Find your route | all three groups, version per group | Motivate: show the routes (leader, professional, builder) and the exam-plus-portfolio pairing |
+| 3 (Mon 21 Dec to Sun 27 Dec) | **Tue 22 Dec 2026** | 03: Before you book an exam | all three groups, version per group | Warn honestly: no job guarantee, a credential without a build is weak, PCxx is not a practice test, Anthropic exam access limits |
+| 4 (Mon 28 Dec to Sun 3 Jan) | **Tue 29 Dec 2026** | 04: Start your portfolio | all three groups, version per group | Motivate: pick your next milestone, sign in, read Part I and its "You are here" panel |
 
 Dependencies:
 - Emails must be final before `personalize` creates the group versions.
@@ -94,7 +95,7 @@ Small. Email only, no paid ads.
 ## 9. Risks and Mitigations
 
 1. **Holiday timing:** emails 03 and 04 land near year-end. Mitigation: keep them short and re-check the dates before sending.
-2. **Overstating the future:** Horizon 2-4 dates are forecasts. Mitigation: always say forecast or indicative, and check every draft against `brand/voice.md`.
+2. **Overstating the future or certifications:** Horizon 2-4 dates are forecasts, and certification facts (dates, domain tables, access rules) can change. Mitigation: say forecast or indicative, cite the page date, check every draft against `brand/voice.md`, and re-check the roadmaps page before any real send.
 3. **Missing link or price:** the page shows neither. Mitigation: use placeholders and do not send for real until they exist.
 4. **Group mismatch:** one message may not fit all readers. Mitigation: the `personalize` skill writes a version per group.
 
