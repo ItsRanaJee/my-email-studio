@@ -45,3 +45,7 @@ Rules:
 - Write in plain English.
 - Never send email to real people.
 - Ask me before deleting anything.
+
+## Brand voice
+
+@brand/voice.md
