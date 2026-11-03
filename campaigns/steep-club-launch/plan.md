@@ -8,7 +8,7 @@ Items marked **[TBC]** are placeholders that need a real answer. Nothing here is
 
 - **Name:** Build and Lead with AI Workers
 - **Summary:** A four-week, email-only campaign that introduces the 2nd edition of *The AI Agent Factory* (Panaversity) through its "Five Horizons" roadmap and invites our interest list to start reading.
-- **Primary goal:** **500 of the roughly 2,000 people on the interest list start reading the book by Sunday 3 January 2027** (number is a placeholder, **[TBC]**).
+- **Primary goal:** **200 of the roughly 2,000 people on the interest list (10%) start reading the book by Sunday 3 January 2027.** "Started reading" means: signed in on the book site (see section 7).
 - **Secondary goals:**
   - Raise awareness of the Five Horizons roadmap.
   - Learn which reader group responds most.
@@ -74,13 +74,14 @@ Dependencies:
 
 ## 7. Success Metrics
 
-- **Primary KPI:** 500 readers start the book by Sun 3 Jan 2027 **[TBC]**.
+- **Primary KPI:** 200 readers (10% of the list) sign in on the book site by Sun 3 Jan 2027.
 - **Secondary KPIs:**
   - Open rate (target **[TBC]**).
   - Click rate to the Five Horizons page.
   - Clicks by reader group.
   - Unsubscribes (keep low).
-- **Tracking:** email service click reports. How to count "started reading" **[TBC]**.
+- **Definition of "started reading":** a person from the list signs in on the book site (agentfactory2.panaversity.org) for the first time during the campaign window (Tue 8 Dec 2026 to Sun 3 Jan 2027).
+- **Tracking:** the email service's click reports show who clicked through, which is a leading signal. The sign-in count itself must come from the book site's own sign-in data, matched to the list by email address. Who provides that export is **[TBC]**. If it is not available, fall back to unique clicks and say so in the report.
 - **Reporting:** a short check after each email, and a summary on Mon 4 Jan 2027.
 
 ## 8. Budget
@@ -99,7 +100,7 @@ Small. Email only, no paid ads.
 
 ## 10. Next Steps
 
-1. Confirm the goal number, the "started reading" definition, and the sender details **[TBC]**.
+1. Confirm who can export sign-in data from the book site **[TBC]**, and the sender details **[TBC]**. (Goal and "started reading" are settled: 200 sign-ins.)
 2. Write the four emails with `/marketing:email-sequence`.
 3. Review them in a fresh session.
 4. Create the practice leads, then the group versions.
