@@ -10,7 +10,7 @@ We want you to act, and we want you to know the limits first. Here are four fact
 3. **Anthropic exams are currently open only** to people at Claude Partner Network organizations, registered with a company email address.
 4. **Dates and domain tables can change.** Treat them as accurate as of the page's date, and check again before you book.
 
-Read the details before you spend a cent:
+Read the details before you book:
 
 [Read the exam facts](https://agentfactory2.panaversity.org/certification-and-portfolio-roadmaps/)
 
