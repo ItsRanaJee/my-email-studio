@@ -44,7 +44,7 @@ Folders:
 
 Rules:
 - Write in plain English.
-- Never send email to real people.
+- Never send email to real people. The only exception: sending through Resend is allowed to Resend's test addresses (ending in `@resend.dev`) and to my own email address (`MY_EMAIL`). A guard (a hook, added in the next step) will enforce this.
 - Ask me before deleting anything.
 
 ## Brand voice
